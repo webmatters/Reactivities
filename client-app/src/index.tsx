@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom/client';
 import { Router } from 'react-router-dom';
 import 'react-calendar/dist/Calendar.css';
 import 'react-toastify/dist/ReactToastify.min.css';
+import 'react-datepicker/dist/react-datepicker.css';
 import { createBrowserHistory } from 'history';
 
 import './app/layout/styles.css';
